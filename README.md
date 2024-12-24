@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Armory </p>
 
 ###
 
@@ -58,8 +58,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/srivi10/srivi10/output/snake.svg" alt="Snake animation" />
 
 ###
 
